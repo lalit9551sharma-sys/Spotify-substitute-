@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Music",
+  "description": "A free and beautiful music streaming application styled like Spotify, featuring custom playlists, favorites, song search, and a high-fidelity visualizer player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

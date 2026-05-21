@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Accent Ring (Safe region radius ~24 around center 54, 54) -->
+    <path
+        android:strokeColor="#1DB954"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,30 A 24,24 0 1,1 53.9,30" />
+
+    <!-- Center Play Chevron (Beautiful Neon green filled triangle) -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M 46,41 L 68,54 L 46,67 Z" />
+
+    <!-- Pulse Equalizer bar L1 -->
+    <path
+        android:fillColor="#1ED760"
+        android:pathData="M 18,48 Q 18,36 21,36 Q 24,36 24,48 L 24,60 Q 24,72 21,72 Q 18,72 18,60 Z" />
+
+    <!-- Pulse Equalizer bar L2 -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M 28,40 Q 28,26 31,26 Q 34,26 34,40 L 34,68 Q 34,82 31,82 Q 28,82 28,68 Z" />
+
+    <!-- Pulse Equalizer bar R1 -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M 74,40 Q 74,26 77,26 Q 80,26 80,40 L 80,68 Q 80,82 77,82 Q 74,82 74,68 Z" />
+
+    <!-- Pulse Equalizer bar R2 -->
+    <path
+        android:fillColor="#1ED760"
+        android:pathData="M 84,48 Q 84,36 87,36 Q 90,36 90,48 L 90,60 Q 90,72 87,72 Q 84,72 84,60 Z" />
+
+</vector>
